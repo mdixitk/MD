@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "First-principles Calculation "
+  icon = "first-principles calculation"
   icon_pack = "fas"
   name = "atom"
   description = "ab-initio and DFT"
