@@ -24,14 +24,14 @@ interests:
 - Electrochemical Energy Storage using First-principles-based methods
 - Computational Heterogeneous Catalysis
 - Machine Learning for Compuational Chemistry
-education:
+education and research experience:
   courses:
   - course: Postdoctoral Researcher 
     institution: University of Pittsburgh, USA
-    year: 2017-2019
+    year: 2017 - 2019
   - course: Postdoc
     institution: Bar-Ilan University, Israel
-    year: 2013-2016
+    year: 2013 - 2016
   - course: PhD in Computational Materials Chemistry
     institution: National Chemical Lab, Pune
     year: 2013
@@ -68,5 +68,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Mudit Dixit's research is focused on applying computational chemistry, machine learning, data-mining methods to discover materials with improved performance and stability for energy and environmental applications. Our multidisciplinary research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, thermodynamics, Electrochemistry and Catalysis.
+Mudit Dixit's research is focused on applying computational chemistry, machine learning, data-mining methods to discover materials with improved performance and stability for energy and environmental applications. His multidisciplinary research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry and Catalysis.
 
