@@ -24,12 +24,12 @@ interests:
 - Electrochemical Energy Storage using First-principles-based methods
 - Computational Heterogeneous Catalysis
 - Machine Learning for Compuational Chemistry
-education and research experience:
+education:
   courses:
   - course: Postdoctoral Researcher 
     institution: University of Pittsburgh, USA
     year: 2017 - 2019
-  - course: Postdoc
+  - course: Postdocoral Fellow
     institution: Bar-Ilan University, Israel
     year: 2013 - 2016
   - course: PhD in Computational Materials Chemistry
