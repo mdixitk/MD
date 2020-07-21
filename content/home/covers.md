@@ -20,11 +20,11 @@ My [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "work titled
 {{< figure library="true" src="Catal.jpg" title="Structure–Activity Relationships" lightbox="true" >}}
 
 
-## Cat.Sci.Tech. Cover 
+## Cat. Sci. Tech. Cover 
 My [work](http://pubs.rsc.org/-/content/articlehtml/2017/cy/c7cy01810j) titled "Elucidating the role of oxygen coverage in CO<sub>2</sub> reduction on Mo<sub>2</sub>C" been selected as hot article for 2017 and featured in the front cover of Catalysis Science and Technology. [Cover Link](http://pubs.rsc.org/en/content/articlelanding/2017/cy/c7cy01810j#!divAbstract)
 {{< figure library="true" src="Cover_f.gif" title="" lightbox="true" >}}
 
 
 ## JES Cover 
-My work in the [Major Group]was selected to be highlighted on the front cover of Journal of The Electrochemical Society. [Cover Link](http://jes.ecsdl.org/content/164/1.cover-expansion)
+My work has been selected to be highlighted on the front cover of Journal of The Electrochemical Society. [Cover Link](http://jes.ecsdl.org/content/164/1.cover-expansion)
  {{< figure library="true" src="Cover_jes.gif" title="" lightbox="true" >}}
