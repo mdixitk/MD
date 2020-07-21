@@ -15,7 +15,9 @@ subtitle = "Jornol Front Covers"
 weight = 60
 
 +++
-## Journal Cover and 2017 Hot Article
-My [work](http://pubs.rsc.org/-/content/articlehtml/2017/cy/c7cy01810j) in the [Mpoumpakis Group](http://www.mpourmpakis.com/) titled "Elucidating the role of oxygen coverage in CO<sub>2</sub> reduction on Mo<sub>2</sub>C" been selected as hot article for 2017 and featured in the front cover of Catalysis Science and Technology. You can find the article and cover [here](http://pubs.rsc.org/en/content/articlelanding/2017/cy/c7cy01810j#!divAbstract){{- $image := resources.Get "/static/files/Cover_f.gif" -}}
-## Journal Cover 
-My work in the [Major Group](http://www.themajorgroup.org/) was selected to be highlighted on the front cover of Journal of The Electrochemical Society. You can find the cover [here](http://jes.ecsdl.org/content/164/1.cover-expansion) {{< figure library="true" src="Cover_f.gif" title="A caption" lightbox="true" >}}
+## Cover Cat.Sci.Tech. 
+{{< figure library="true" src="Cover_f.gif" title="My [work](http://pubs.rsc.org/-/content/articlehtml/2017/cy/c7cy01810j) in the [Mpoumpakis Group](http://www.mpourmpakis.com/) titled "Elucidating the role of oxygen coverage in CO<sub>2</sub> reduction on Mo<sub>2</sub>C" been selected as hot article for 2017 and featured in the front cover of Catalysis Science and Technology. You can find the article and cover [here](http://pubs.rsc.org/en/content/articlelanding/2017/cy/c7cy01810j#!divAbstract)" lightbox="true" >}}
+
+{{- $image := resources.Get "/static/files/Cover_f.gif" -}}
+## JES Cover 
+ {{< figure library="true" src="Cover_jes.gif" title="My work in the [Major Group](http://www.themajorgroup.org/) was selected to be highlighted on the front cover of Journal of The Electrochemical Society. You can find the cover [here](http://jes.ecsdl.org/content/164/1.cover-expansion)" lightbox="true" >}}
