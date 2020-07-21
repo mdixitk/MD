@@ -17,20 +17,29 @@ subtitle = ""
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "atomistic simulation"
-  description = "quantum/classical"  
+  name = "First-principles Calculations"
+  description = "Plan-wave DFT and ab-initio"  
   
+[[feature]]
+  icon = "battery-three-quarters"
+  icon_pack = "fas"
+  name = "Batteries"
+  description = "Rechargebale Batteries"
+  
+[[feature]]
+  icon = "bezier-curve"
+  icon_pack = "fas"
+  name = "Catalysis"
+  description = "Reaction Dynamics and Kinetics"
+
+
+
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "machine learning"
-  description = "neural networks/uncertainty"
+  description = "Supervised Learning"
 
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "automation"
-  description = "algorithmic design/optimization"
 
 [[feature]]
   icon = "python"
@@ -39,15 +48,10 @@ subtitle = ""
   description = "for business"
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R/ggplot"
-  description = "for pleasure"
+  icon = "ball-pile"
+  icon_pack = "fas"
+  name = "Nanomaterials"
+  description = "Electrocatalysis"
 
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "linux"
-  description = "for always"
 
 +++
