@@ -48,7 +48,7 @@ subtitle = ""
   description = "for business"
 
 [[feature]]
-  icon = "ball-pile"
+  icon = "atom-alt"
   icon_pack = "fas"
   name = "Nanomaterials"
   description = "Electrocatalysis"
