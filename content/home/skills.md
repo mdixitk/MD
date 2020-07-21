@@ -20,23 +20,23 @@ subtitle = ""
   name = "atom"
   description = "ab-initio and DFT"
   
-[[feature]]
-  icon = "Batteries -Electrochemical Energy Storage"
-  icon_pack = "fas"
-  name = "battery-three-quarters"
-  description = "Rechargeable Batteries"  
+#[[feature]]
+#  icon = "Batteries -Electrochemical Energy Storage"
+#  icon_pack = "fas"
+#  name = "battery-three-quarters"
+#  description = "Rechargeable Batteries"  
   
-[[feature]]
-  icon = "Machine Learning"
-  icon_pack = "fas"
-  name = "robot"
-  description = "Supervised Learning"
+#[[feature]]
+#  icon = "Machine Learning"
+#  icon_pack = "fas"
+#  name = "robot"
+#  description = "Supervised Learning"
 
-[[feature]]
-  icon = "Catalysis"
-  icon_pack = "fas"
-  name = "bezier-curve"
-  description = "Catalysis and Reaction Dynamics"
+#[[feature]]
+#  icon = "Catalysis"
+#  icon_pack = "fas"
+#  name = "bezier-curve"
+#  description = "Catalysis and Reaction Dynamics"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
