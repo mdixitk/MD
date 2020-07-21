@@ -15,23 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "First-principles Calculation "
+  icon_pack = "fas"
+  name = "atom"
+  description = "ab-initio and DFT"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "Batteries -Electrochemical Energy Storage"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "battery-three-quarters"
+  description = "Rechargeable Batteries"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "Machine Learning"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "robot"
+  description = "Supervised Learning"
 
+[[feature]]
+  icon = "Catalysis"
+  icon_pack = "fas"
+  name = "bezier-curve"
+  description = "Catalysis and Reaction Dynamics"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
