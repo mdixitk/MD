@@ -22,7 +22,10 @@
   name = "Publications"
   url = "#featured"
   weight = 40
-
+[[main]]
+  name = "Covers"
+  url = "#covers"
+  weight = 40
 [[main]]
   name = "Contact"
   url = "#contact"
