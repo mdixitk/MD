@@ -37,7 +37,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "bezier-curve"
   description = "Catalysis and Reaction Dynamics"
-  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
