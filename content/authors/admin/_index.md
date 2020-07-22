@@ -18,10 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computational Materials Chemistry, Electrochmical Energy Storage and Catalysis.
+bio: I designing materials and molecules for energy and environmental applications, provide atomic-level details, and unravell the underpinning physics of these systems using computational methods.
 
 interests:
-- Electrochemical Energy Storage 
+- Electrochemical Energy Storage - icon: atom
+  icon_pack: fas
 - Computational Catalysis
 - Machine Learning for Chemistry
 education:
