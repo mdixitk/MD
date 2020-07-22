@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assitant Professor of Chemistry
+role: Assistant Professor of Chemistry
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,16 @@ bio: My research interests include Computational Materials Chemistry, Electrochm
 interests:
 - Electrochemical Energy Storage using First-principles-based methods
 - Computational Heterogeneous Catalysis
-- Machine Learning for Compuational Chemistry
+- Machine Learning for Computational Chemistry
 education:
   courses:
   - course: Postdoctoral Researcher 
     institution: University of Pittsburgh, USA
     year: 2017 - 2019
-  - course: Postdocoral Fellow
+  - course: PPostdoctoral Fellow
     institution: Bar-Ilan University, Israel
     year: 2013 - 2016
-  - course: PhD in Computational Materials Chemistry
+  - course: Ph.D. in Computational Materials Chemistry
     institution: National Chemical Lab, Pune
     year: 2013
 
