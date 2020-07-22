@@ -48,5 +48,4 @@ R&D organization"
   date_start = "2012-07-08"
   date_end = ""
   description = ""
-
 +++
