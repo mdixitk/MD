@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I designing materials and molecules for energy and environmental applications, provide atomic-level details, and unravell the underpinning physics of these systems using computational methods.
-
+bio: Mudit Dixit, Ph.D. Compuational Chemistry
 interests:
 - Electrochemical Energy Storage 
 - Computational Catalysis
@@ -68,5 +67,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Mudit Dixit's research is focused on applying computational chemistry, machine learning, data-mining methods to discover materials with improved performance and stability for energy and environmental applications. His multidisciplinary research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry and Catalysis.
+Mudit Dixit's research is focused on applying computational chemistry and machine learning to discover materials with improved performance for energy and environmental applications. His multidisciplinary research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry and Catalysis.
 
