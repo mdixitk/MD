@@ -16,7 +16,7 @@ weight = 60
 
 +++
 ## ACS Catalysis Cover 
-My [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "work titled "Structure–Activity Relationships in Alkane Dehydrogenation on γ-Al2O3: Site-Dependent Reactions" being featured in the cover of ACS Catalysis cover. [Cover Link](https://pubs.acs.org/toc/accacs/8/12)
+My [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "work titled "Structure–Activity Relationships in Alkane Dehydrogenation on γ-Al2O3: Site-Dependent Reactions" being featured in the front cover of ACS Catalysis. [Cover Link](https://pubs.acs.org/toc/accacs/8/12)
 {{< figure library="true" src="Catal.jpg" title="Structure–Activity Relationships" lightbox="true" >}}
 
 
