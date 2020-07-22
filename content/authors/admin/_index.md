@@ -21,8 +21,7 @@ organizations:
 bio: I designing materials and molecules for energy and environmental applications, provide atomic-level details, and unravell the underpinning physics of these systems using computational methods.
 
 interests:
-- Electrochemical Energy Storage - icon: atom
-  icon_pack: fas
+- Electrochemical Energy Storage 
 - Computational Catalysis
 - Machine Learning for Chemistry
 education:
