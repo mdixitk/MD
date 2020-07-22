@@ -67,5 +67,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Mudit Dixit's research is focused on applying computational chemistry and machine learning to discover materials with improved performance for energy and environmental applications. His multidisciplinary research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry and Catalysis.
+Mudit Dixit's research is focused on applying computational chemistry and machine learning methods to discover materials with improved performance for energy and environmental applications. His multidisciplinary research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry and Catalysis.
 
