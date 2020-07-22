@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "PBC, Israel"
-  organization_url = "https://computationalengineering.mit.edu/"
+  organization_url = ""
   title = "Planning and Budgeting Committee (PBC) Postdoctoral fellowship"
   url = ""
   certificate_url = ""
@@ -35,8 +35,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2008-07-01"
   date_end = ""
-  description = "Awarded by Council of Scientific and Industrial Research (CSIR), India, a premier national
-R&D organization"
+  description = "Awarded by Council of Scientific and Industrial Research (CSIR), India"
 
 [[item]]
   organization = "DST, India"
