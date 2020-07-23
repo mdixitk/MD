@@ -5,7 +5,9 @@ publishDate: 2020-07-22T01:16:21.090763Z
 authors: ["Mudit Dixit", "Boris Markovsky", "Doron Aurbach", "Dan T Major"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
+summary: We show Al stabilizes the structure of the NCM cathode materials via strong Al-O iono-covalent bonding due to a significant Al(s)-O(p) overlap.
+significant charge transfer capabilities of Al.
 publication: "*Journal of The Electrochemical Society*"
 ---
 
