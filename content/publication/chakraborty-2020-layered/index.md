@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Chemistry of Materials*"
-url_pdf="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b04066" 
+url_pdf="https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.9b04066"
 
 
 ---
