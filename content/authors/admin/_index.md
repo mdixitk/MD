@@ -27,11 +27,9 @@ education:
   courses:
   - course: Postdoctoral Researcher 
     institution: University of Pittsburgh, USA
-    institution_url: "https://www.pitt.edu/"
     year: 2017 - 2019
   - course: Postdoctoral Fellow
     institution: Bar-Ilan University, Israel
-  
     year: 2013 - 2016
   - course: Ph.D. in Computational Materials Chemistry
     institution: National Chemical Lab, Pune
