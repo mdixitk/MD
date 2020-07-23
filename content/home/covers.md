@@ -12,7 +12,7 @@ title = "Covers"
 subtitle = "Journal front cover"
 
 # Order that this section will appear in.
-weight = 60
+weight = 80
 
 +++
 ## ACS Catalysis Cover 
