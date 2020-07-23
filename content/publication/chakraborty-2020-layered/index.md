@@ -12,4 +12,3 @@ url_link="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b04066"
 
 ---
 
-this is CO<sub>2</sub>
