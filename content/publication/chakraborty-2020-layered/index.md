@@ -7,8 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Chemistry of Materials*"
-url_pdf=files/arup_cm_2020.pdf
-url_link=https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b04066
+url_pdf="files/arup_cm_2020.pdf"
+url_link="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b04066"
 
 ---
 
