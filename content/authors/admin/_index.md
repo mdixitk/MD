@@ -31,12 +31,11 @@ education:
     year: 2017 - 2019
   - course: Postdoctoral Fellow
     institution: Bar-Ilan University, Israel
-   # institution_url = "https://www1.biu.ac.il/"
+  
     year: 2013 - 2016
   - course: Ph.D. in Computational Materials Chemistry
     institution: National Chemical Lab, Pune
-    institution_url = "http://academic.ncl.res.in/"
-    year: 2013
+     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
