@@ -5,7 +5,8 @@ publishDate: 2020-07-22T01:16:21.086095Z
 authors: ["Mudit Dixit", "Florian Schipper", "Daniela Kovacheva", "Michael Talianker", "Ortal Haik", "Judith Grinblat", "Evan M Erickson", "Chandan Ghanty", "Dan T Major", "Boris Markovsky", " others"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
+summary: We present lattice doping as a strategy to improve the structural stability and voltage fade on prolonged cycling of LiNi0.6Co0.2Mn0.2O2 (NCM-622) doped with zirconium.
 publication: "*Journal of Materials Chemistry A*"
 ---
 
