@@ -9,3 +9,4 @@ featured: false
 publication: "*Chemistry of Materials*"
 ---
 
+this is CO<sub>2</sub>
