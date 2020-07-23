@@ -6,7 +6,8 @@ authors: ["Mudit Dixit", "Pavlo Kostetskyy", "Giannis Mpourmpakis"]
 publication_types: ["2"]
 abstract: ""
 featured: true
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 publication: "*ACS Catalysis*"
-summary:Structure–activity relationships were developed in alkane dehydrogenation on γ-Al2O3, revealing a site-dependent catalytic behavior and identifying active sites through a volcano plot.
+#summary:Structure–activity relationships were developed in alkane dehydrogenation on γ-Al2O3, revealing a site-dependent catalytic behavior and identifying active sites through a #volcano plot.
 ---
 
