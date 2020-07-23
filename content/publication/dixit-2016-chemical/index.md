@@ -6,12 +6,10 @@ authors: ["Mudit Dixit", "Michal Weitman", "Jiali Gao", "Dan T Major"]
 publication_types: ["2"]
 abstract: ""
 featured: true
-summary:we illustrate the
+summary: we illustrate the
 catalytic control exerted by trichodiene synthase, and in particular,
 we discover that to avoid formation of
-byproducts, the enzyme raises the energy of bisabolyl carbocation,
-which is a general mechanistic branching point in many sesquiterpene
-cyclases, resulting in an essentially concerted cyclization cascade.
+byproducts, the enzyme raises the energy of bisabolyl carbocation.
 publication: "*ACS Catalysis*"
 ---
 
