@@ -5,7 +5,8 @@ publishDate: 2020-07-22T01:16:21.073737Z
 authors: ["Mudit Dixit", "Monica Kosa", "Onit Srur Lavi", "Boris Markovsky", "Doron Aurbach", "Dan Thomas Major"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+summary: We show that cationic ordering of NCM cathodes can be predicted employing cheap atomistic simulations, instead of using expensive first-principles methods.Subsequently, we investigate the electrochemical, thermodynamic and kinetic properties of NCM-523.
+featured: true
 publication: "*Physical Chemistry Chemical Physics*"
 ---
 
