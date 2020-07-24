@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "DST, India"
   organization_url = ""
-  title = "Intrnational Travel Grant"
+  title = "International Travel Grant"
   url = ""
   date_start = "2012-07-08"
   date_end = ""
