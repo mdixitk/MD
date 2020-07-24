@@ -24,7 +24,7 @@ subtitle = ""
   icon = "battery-three-quarters"
   icon_pack = "fas"
   name = "Batteries"
-  description = "Rechargebale Batteries"
+  description = "Rechargeable Batteries"
   
 [[feature]]
   icon = "bezier-curve"
