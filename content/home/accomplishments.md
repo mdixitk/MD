@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "PBC, Israel"
   organization_url = ""
-  title = " "
+  title = "Planning and Budgeting Committee (PBC) Postdoctoral fellowship"
   url = "Planning and Budgeting Committee (PBC) Postdoctoral fellowship"
   certificate_url = ""
   date_start = "2014-10-01"
