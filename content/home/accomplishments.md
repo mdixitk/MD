@@ -28,21 +28,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = "A fellowship program for outstanding postdoctoral researchers"
 
-[[item]]
-  organization = "CSIR, India"
-  organization_url = ""
-  title = "Junior Research Fellowship (JRF)"
-  url = ""
-  date_start = "2008-07-01"
-  date_end = ""
-  description = "Awarded by Council of Scientific and Industrial Research (CSIR), India"
 
-[[item]]
-  organization = "DST, India"
-  organization_url = ""
-  title = "International Travel Grant"
-  url = ""
-  date_start = "2012-07-08"
-  date_end = ""
-  description = "For delivering an invited talk"
 +++
