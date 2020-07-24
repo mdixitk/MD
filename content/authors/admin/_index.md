@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mudit Dixit, Ph.D. 
+bio: Mudit Dixit, Ph.D. Computational Chemistry
 
 interests:
 - Electrochemical Energy Storage
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "dixitmuditk@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,4 +72,4 @@ user_groups:
 
 Mudit Dixit's research is focused on applying Computational Chemistry and Machine Learning methods to discover materials with improved performance for energy and 
 environmental applications. His research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry
-and Catalysis.
+and Catalysis. (TEST)
