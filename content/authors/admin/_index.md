@@ -67,7 +67,9 @@ email: "dixitmuditk@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+
+# Visitors
+#
 ---
 
 Mudit Dixit's research is focused on applying Computational Chemistry and Machine Learning methods to discover materials with improved performance for energy and 
