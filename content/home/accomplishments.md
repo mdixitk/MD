@@ -19,22 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "MIT Center for Computational Engineering (CCE)"
-  organization_url = "https://computationalengineering.mit.edu/"
-  title = " MathWorks Prize for Outstanding Doctoral Research, Computational Science and Engineering Program 2019"
-  url = "https://computationalengineering.mit.edu/research/mathworks-research-prizes/"
+  organization = "PBC, Israel"
+  organization_url = ""
+  title = " "
+  url = "Planning and Budgeting Committee (PBC) Postdoctoral fellowship"
   certificate_url = ""
-  date_start = "2019-03-18"
+  date_start = "2014-10-01"
   date_end = ""
-  description = "For outstanding PhD research in the CCE program"
+  description = "A fellowship program for outstanding postdoctoral researchers"
 
 [[item]]
-  organization = "ACS Comp. Division"
-  organization_url = "https://www.acscomp.org/home"
-  title = "Chemical Computing Group Excellence Award for Graduate Students Fall 2019"
-  url = "https://www.acscomp.org/awards/chemical-computing-group-excellence-award"
-  date_start = "2019-08-01"
+  organization = "CSIR, India"
+  organization_url = ""
+  title = "Junior Research Fellowship (JRF)"
+  url = ""
+  date_start = "2008-07-01"
   date_end = ""
-  description = "American Chemical Society Computers in Chemistry Division prize for graduate students"
+  description = "Awarded by Council of Scientific and Industrial Research (CSIR), India"
 
+[[item]]
+  organization = "DST, India"
+  organization_url = ""
+  title = "International Travel Grant"
+  url = ""
+  date_start = "2012-07-08"
+  date_end = ""
+  description = "For delivering an invited talk"
+  
 +++
