@@ -6,6 +6,7 @@ authors: ["Mudit Dixit", "Michal Weitman", "Jiali Gao", "Dan T Major"]
 publication_types: ["2"]
 abstract: ""
 featured: false
+summary:We illustrate the catalytic control exerted by trichodiene synthase, and in particular, we discover features that could be general catalytic tools adopted by other terpenoid cyclases.
 publication: "*ACS Catalysis*"
 ---
 
