@@ -4,7 +4,7 @@ title: Mudit Dixit
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Principle Investigator
 
 # Is this the primary user of the site?
 superuser: true
