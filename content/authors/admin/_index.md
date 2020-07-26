@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Chemistry
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
-- name: LPU, India
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
