@@ -11,18 +11,18 @@ authors:
 superuser: false
 
 # Role/position
-role: B.Sc. Students
+role: Undergraduate Researcher
 # Organizations/Affiliations
 organizations: 
 - name: IISER Kolkata
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Amrita Gogoi , Ph.D. Computational Chemistry
+bio: Mir Tifail Nab , B.Sc. Chemistry
 
 interests:
 - Computational Catalysis
-- terpene biosynthesis mechanism
+- Terpene biosynthesis mechanism
 education:
   
 # Social/Academic Networking
