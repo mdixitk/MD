@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D.
+role: Assistant Professor, LPU, India
 
 # Organizations/Affiliations
 organizations:
