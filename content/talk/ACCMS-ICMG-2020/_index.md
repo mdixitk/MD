@@ -1,0 +1,14 @@
+title = "Invited Talk - Elucidating the origin of capacity fading of Ni-rich layered oxide-based positive electrode materials for Li-ion batteries"
+#date = 2017-08-03T00:00:00  # Schedule page publish date.
+location = "SRM University, AP, India"
+event = "American Chemical Society Fall National Meeting"
+draft = false
+#url_pdf = "tks/ACSF17.pdf"
+time_start = 2020-05-02
+all_day = true
+authors = ["Mudit Dixit"]
+featured = false
+projects = []
+tags = []
+slides = ""
+math = true
