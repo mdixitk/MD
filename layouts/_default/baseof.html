@@ -1,7 +1,23 @@
 <!DOCTYPE html>
 {{- $language_code := site.LanguageCode | default "en-us" -}}
 <html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
-
+<meta name="robots" content="index,follow" /> 
+<meta name="googlebot" content="index,follow" />
+  <meta property="og:type" content="website" /> 
+<meta name="Mudit Dixit" content="{{ .Site.Params.author }}" />
+<script defer type="application/ld+json">
+  { 
+    "@context": "http://schema.org", 
+    "@type": "WebSite", 
+    "url": "{{ .Permalink }}", 
+    "sameAs": [
+      "{{ .Site.Params.facebook }}", 
+      "{{ .Site.Params.github }}"
+    ], 
+    "name": "{{ .Title }}", 
+    "logo": "https://www.dixitmudit.in/images/icon.png" 
+  }
+</script>
 {{ partial "site_head" . }}
 <body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
 
