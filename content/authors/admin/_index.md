@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, LPU, India
+role: Research Intensive Faculty, LPU, India
 
 # Organizations/Affiliations
 organizations:
