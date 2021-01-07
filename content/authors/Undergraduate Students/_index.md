@@ -14,7 +14,7 @@ superuser: false
 role: Undergraduate Researcher
 # Organizations/Affiliations
 organizations: 
-- name: IISER Kolkata
+- name: LPU, India
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
