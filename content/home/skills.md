@@ -18,7 +18,7 @@ subtitle = ""
   icon = "atom"
   icon_pack = "fas"
   name = "First-principles Calculations"
-  description = "Plan-wave DFT and ab-initio"  
+  description = "Plane-wave DFT and ab-initio"  
   
 [[feature]]
   icon = "battery-three-quarters"
