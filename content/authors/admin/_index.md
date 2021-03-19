@@ -34,7 +34,7 @@ education:
     institution: Bar-Ilan University, Israel 
     year: 2013 - 2016
   - course: Ph.D. in Computational Chemistry
-    institution: National Chemical Lab, Pune
+    institution: CSIR-National Chemical Lab, Pune
     year: 2008-2013
 
 # Social/Academic Networking
