@@ -35,7 +35,7 @@ education:
     year: 2013 - 2016
   - course: Ph.D. in Computational Chemistry
     institution: National Chemical Lab, Pune
-    year: 2008
+    year: 2008-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
