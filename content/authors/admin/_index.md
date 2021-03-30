@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Intensive Faculty, LPU, India
+role: Assitant Professor of Chemistry (Research Intensive Faculty), LPU, India
 
 # Organizations/Affiliations
 organizations:
@@ -34,8 +34,8 @@ education:
     institution: Bar-Ilan University, Israel 
     year: 2013 - 2016
   - course: Ph.D. in Computational Chemistry
-    institution: National Chemical Lab, Pune
-    year: 2008
+    institution: CSIR-National Chemical Lab, Pune
+    year: 2008-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
