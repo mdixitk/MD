@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Priti Singh, SERB-JRF, Chemistry
+bio:  Priti Singh, SERB - JRF, Chemistry
 
 interests:
 - Computational Electrochemical Energy, Computational Catalysis
