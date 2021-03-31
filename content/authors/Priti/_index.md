@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Priti Sing 
+title: Priti Singh
 
 # Username (this should match the folder name)
 authors:
