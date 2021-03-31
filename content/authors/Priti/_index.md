@@ -22,8 +22,8 @@ organizations:
 bio:  Priti Singh, SERB - JRF, Chemistry
 
 interests:
-- Computational Electrochemical Energy, Computational Catalysis
-education: M.Sc. Chemistry, ICT, Mumbai 
+- Computational Electrochemical Energy
+education: 
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
