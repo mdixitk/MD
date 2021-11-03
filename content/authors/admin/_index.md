@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assitant Professor of Chemistry (Research Intensive Faculty), LPU, India
+role: Assistant Professor of Chemistry (Research Intensive Faculty), LPU, India
 
 # Organizations/Affiliations
 organizations:
