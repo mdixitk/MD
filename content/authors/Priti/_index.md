@@ -11,11 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: JRF(SERB), LPU, India
+role: JRF(SERB), BITS PIlani, Hyderabad, India
 
 # Organizations/Affiliations
 organizations: 
-- name: LPU, India
+- name: BITS PIlani, Hyderabad, India
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
