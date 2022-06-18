@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate, IISER, Kolkata
+role: PhD Candidate, IISER, Kolkata, Co-Guide Dr. Mudit Dixit
 
 # Organizations/Affiliations
 organizations: 
