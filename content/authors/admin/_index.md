@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Chemistry, BITS Pilani, Hyderabad Campus 
+role: Senior Scientist, CSIR - Central Leather Research Institute (CLRI) 
 
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: ""
+  url: "CSIR-CLRI"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mudit Dixit, Ph.D. Computational Chemistry
