@@ -44,7 +44,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
+  name = "Python"
   description = "for business"
 
 [[feature]]
