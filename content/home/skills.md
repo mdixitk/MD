@@ -35,8 +35,8 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
+  icon = "machine-learning-03-svgrepo-com"
+  icon_pack = "custom"
   name = "machine learning"
   description = "Supervised Learning"
 
