@@ -14,8 +14,8 @@ role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: CSIR-CLRI
+  url: "clri.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mudit Dixit, Ph.D. Computational Chemistry
