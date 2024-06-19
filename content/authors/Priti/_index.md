@@ -11,11 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: JRF(SERB), BITS PIlani, Hyderabad, India
+role: JRF(SERB), CSIR-CLRI, India
 
 # Organizations/Affiliations
 organizations: 
-- name: BITS PIlani, Hyderabad, India
+- name: CSIR-CLRI, CHENNAI, India
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
