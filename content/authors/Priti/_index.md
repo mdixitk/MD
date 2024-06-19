@@ -13,7 +13,7 @@ superuser: false
 # Role/position
 role: JRF (SERB), CSIR-CLRI, India
 
-# Organizations/Affiliations
+#Organizations/Affiliations
 organizations: 
 - name: CSIR-CLRI, CHENNAI, India
   url: ""
@@ -33,12 +33,12 @@ education:
 #- icon: envelope
 ##  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
+- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/dixitmuditk
-#- icon: google-scholar
+- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: 
