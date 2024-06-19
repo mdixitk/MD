@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: JRF(SERB), CSIR-CLRI, India
+role: JRF (SERB), CSIR-CLRI, India
 
 # Organizations/Affiliations
 organizations: 
